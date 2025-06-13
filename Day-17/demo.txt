@@ -1,0 +1,2 @@
+Hello from your custom context manager!
+This was safely written and the file will close automatically.
